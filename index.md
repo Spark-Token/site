@@ -1,7 +1,7 @@
 # Spark Token
 ### An Energy Stable DeFi Coin that tokenizes energy from Proof of Work mining
 
-Spark is an Ethereum/Ethereum Class stable token that provides miners the ability to tokenize hashpower directly, without having to compete against other miners. Tokens are minted based solely on the difficulty target (the number of zeros) of the provided solution, defined as:
+Spark is an Ethereum/Ethereum Classic stable token that provides miners the ability to tokenize hashpower directly, without having to compete against other miners. Tokens are minted based solely on the difficulty target (the number of zeros) of the provided solution, defined as:
 
 ```
 MAX_TARGET = 2**234
